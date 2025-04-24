@@ -40,8 +40,8 @@ I'm here to chat, vibe, and bring some fun to your day.
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/{app.username}?startgroup=true")],
                 [
-                    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/CodeSearchDev"),
-                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/ChatWithDevRobot")
+                    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/SuperToppers"),
+                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/SuperToppers0")
                 ],
                 [InlineKeyboardButton(text="ᴍʏ ᴄᴏᴍᴍᴀɴᴅs", callback_data="help")]
             ])
@@ -96,10 +96,10 @@ I'm here to chat, vibe, and bring some fun to your day.
                 await query.message.edit_text(
                     new_text,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url="https://t.me/MissAaru_Robot?startgroup=true")],
+                        [InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url="https://t.me/DhairyaSandhyana_Bot?startgroup=true")],
                         [
-                            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/CodeSearchDev"),
-                            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/ChatWithDevRobot")
+                            InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/SuperToppers"),
+                            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/SuperToppers0")
                         ],
                         [InlineKeyboardButton(text="ᴍʏ ᴄᴏᴍᴍᴀɴᴅs", callback_data="help")]
                     ])
